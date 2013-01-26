@@ -1,5 +1,8 @@
 #!/usr/bin/perl
 
+# The latest release of this script can be 
+# found at https://github.com/kylejohnson/digitemp-1wire-carbon
+
 use strict;
 use warnings;
 use IO::Socket::INET;
